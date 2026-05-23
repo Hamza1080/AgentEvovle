@@ -1,6 +1,6 @@
 # Travel Planner Visual
 
-Demo Video (https://www.loom.com/share/892883a5503d401d805a6d25d3a88109)
+[Watch Demo](https://www.loom.com/share/892883a5503d401d805a6d25d3a88109)
 
 A [Next.js](https://nextjs.org/) app that turns a trip intake form into an **interactive results dashboard**: a 3D globe between origin and destination, trip stats, a budget-style summary, and an expandable day-by-day itinerary. It is built as a **visualization front end** for EvoAgent-style multi-agent travel planning, with itinerary data served from local JSON for demos and prototyping.
 
